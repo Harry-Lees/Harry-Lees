@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋, I'm Harry
 
-<!--
-**Harry-Lees/Harry-Lees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-Lees&show_icons=true)  
 
-Here are some ideas to get you started:
+I'm an 18 year old college student! I enjoy programming, playing squash and listening to music. You can often find me helping beginners on [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm pretty good at
+- :snake: Python
+- SQL
+- Flask
+
+### I've had experience at
+- :flashlight: AP Sensing (summer intern)
+- :car: RL Automotive (summer intern)
+
+### and I'm currently helping
+- [Calshot Sailing Club](https://calshot-sailing.co.uk) look after their website!
+
+### Some of my personal projects include
+- [DS Slideshow](https://github.com/Harry-Lees/DS_Slideshow), an open source digital signage program built in flask.
+- [Plant Water Dashboard](https://github.com/Harry-Lees/plant_water_dashboard), a simple flask app to remind you to water your plants! This one was even featured on [raspberrypi.org!](https://www.raspberrypi.org/blog/raspberry-pi-powered-bonsai-watering-system/)
+
+### I'd love to get better at
+- C++, I love tinkering with Arduino whenever I can find an excuse to.
+- Data Science, discovering things through looking at data is facinating to me.
