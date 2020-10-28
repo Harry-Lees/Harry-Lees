@@ -10,8 +10,11 @@ I'm an 18 year old college student! I enjoy programming, playing squash and list
 - Flask
 
 ### I've had experience at
-- :flashlight: AP Sensing (summer intern)
-- :car: RL Automotive (summer intern)
+- :flashlight: AP Sensing (Summer Intern 2020)
+- :car: RL Automotive (Summer Intern)
+
+### I'm currently Working at
+- :car: RL Automotive (Software Developer 2020)
 
 ### and I'm currently helping
 - [Calshot Sailing Club](https://calshot-sailing.co.uk) look after their website!
