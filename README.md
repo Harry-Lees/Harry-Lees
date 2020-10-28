@@ -18,6 +18,7 @@ I'm an 18 year old college student! I enjoy programming, playing squash and list
 
 ### and I'm currently helping
 - [Calshot Sailing Club](https://calshot-sailing.co.uk) look after their website!
+- Aston Unofficial look after their discord server!
 
 ### Some of my personal projects include
 - [DS Slideshow](https://github.com/Harry-Lees/DS_Slideshow), an open source digital signage program built in flask.
