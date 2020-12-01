@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-Lees&show_icons=true)  
 
-I'm a 19 year old University student studying Computer Science at Aston University, Birmingham! I enjoy programming, playing squash and listening to music. You can often find me helping beginners on [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
+I'm a 19 year old University student studying Computer Science at [Aston University, Birmingham!](https://www.aston.ac.uk/) I enjoy programming, playing squash and listening to music. You can often find me helping beginners on [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
 
 ## You should follow me on
 - [LinkedIn](https://www.linkedin.com/in/harry-lees-1738841b1/)
