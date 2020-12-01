@@ -4,8 +4,8 @@
 
 I'm a 19 year old University student studying Computer Science at Aston University, Birmingham! I enjoy programming, playing squash and listening to music. You can often find me helping beginners on [r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
 
-## You can follow me on
-- LinkedIn
+## You should follow me on
+- [LinkedIn](https://www.linkedin.com/in/harry-lees-1738841b1/)
 
 ## I'm pretty good at
 - :snake: Python
@@ -15,10 +15,10 @@ I'm a 19 year old University student studying Computer Science at Aston Universi
 - Java
 
 ## I've had experience at
-- :flashlight: AP Sensing (Summer Intern 2020, Several contracting projects)
+- :flashlight: [AP Sensing](https://www.linkedin.com/company/ap-sensing/) (Summer Intern 2020, Several contracted projects)
 
 ## I'm currently Working at
-- :car: RL Automotive (Software Developer 2020)
+- :car: [Tyrewatch](https://www.linkedin.com/company/tyrewatch.com-ltd/) (Software Developer 2020)
 
 ## I'm currently voluntarily helping
 - [Calshot Sailing Club](https://calshot-sailing.co.uk) look after their website!
