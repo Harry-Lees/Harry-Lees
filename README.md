@@ -21,8 +21,8 @@ I'm a 19 year old University student studying Computer Science at Aston Universi
 - :car: [Tyrewatch](https://www.linkedin.com/company/tyrewatch.com-ltd/) (Software Developer 2020)
 
 ## I'm currently voluntarily helping
-- [Calshot Sailing Club](https://calshot-sailing.co.uk) look after their website!
-- Aston Unofficial look after their discord server!
+- [Calshot Sailing Club](https://calshot-sailing.co.uk) look after their website.
+- Aston Unofficial look after their discord server.
 
 ## Some of my personal projects include
 - [DS Slideshow](https://github.com/Harry-Lees/DS_Slideshow), an open source digital signage program built with Flask and Python3.
